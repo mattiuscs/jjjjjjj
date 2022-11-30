@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.all-cont{
+    width: 100vw;
+    height: 100vh;
+}
+
+.allmidinfo{
+    position: relative;
+    top: 40%;
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(187, 139, 233);
+}
